@@ -23,6 +23,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Balancing Unit and Integration Tests
 - Styling and Design Systems
 - Accessibility
+- Localization 
 - Client-Side Routing
 - Font Loading and Rendering
 - Image Optimization
