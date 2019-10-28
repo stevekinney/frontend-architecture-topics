@@ -22,6 +22,8 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 - Testing
 	- Balancing Unit and Integration Tests
 - Styling and Design Systems
+	- CSS Methodologies
+	- CSS-in-JS
 - Accessibility
 - Client-Side Routing
 - Font Loading and Rendering
@@ -32,7 +34,32 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- PRPL
 	- Layout Performance
 	- Runtime Performance
+	- Auditing
 - Microfrontends vs. Monoliths
+- Server-Side Rendering vs. Static Site Generation
 - WebAssembly
 - Type Systems
 - Monitoring and Alerting
+- Design Patterns
+- Documentation
+	- Platform Architecture
+	- Sequence Diagrams/User Flows
+	- Developer Workflow
+	- Performance Budgets
+	- Testing Strategy
+	- Runbooks
+	- Compliance Considerations
+		- SOX
+		- GDPR
+		- PCI
+		- HIPAA
+		- etc.
+- Repo creation
+	- README.md
+		- Local Setup
+		- Develop Against Different Environments
+		- Run Tests
+	- CONTRIBUTOR.md
+		- Conventional Commits
+		- Code Review Process
+		- Library Release Process
