@@ -15,6 +15,10 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Code Splitting
 	- Tree-Shaking
 	- Lazy-loading
+- Dependency Management
+	- node_modules
+	- npm / Yarn
+	- Build your own registry
 - Application Deployment
 	- Build Processes
 	- Continuous Integration / Continuous Deployment
