@@ -11,7 +11,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- REST vs. GraphQL
 	- Loading and Error States
 	- Caching Requests
-	- Authorization
+	- Authorization/Authentication
 - Bundle Management
 	- Code Splitting
 	- Tree-Shaking
