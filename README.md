@@ -11,6 +11,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- REST vs. GraphQL
 	- Loading and Error States
 	- Caching Requests
+	- Authorization
 - Bundle Management
 	- Code Splitting
 	- Tree-Shaking
@@ -42,6 +43,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Runtime Performance
 	- Auditing
 - Microfrontends vs. Monoliths
+- Backend for Front End
 - Server-Side Rendering vs. Static Site Generation
 - WebAssembly
 - Type Systems
