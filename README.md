@@ -17,7 +17,8 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Lazy-loading
 - Application Deployment
 	- Build Processes
-	- Continuous Integration
+	- Continuous Integration / Continuous Deployment
+	- Docker / Kubernetes
 	- Hosting and Content Delivery Networks
 - Testing
 	- Balancing Unit and Integration Tests
