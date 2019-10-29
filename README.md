@@ -27,6 +27,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Hosting and Content Delivery Networks
 - Testing
 	- Balancing Unit and Integration Tests
+	- Local Setup: Backend systems/mocking requests
 - Styling and Design Systems
 	- CSS Methodologies
 	- CSS-in-JS
