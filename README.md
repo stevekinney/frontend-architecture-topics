@@ -26,9 +26,12 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Hosting and Content Delivery Networks
 - Testing
 	- Balancing Unit and Integration Tests
+	- Visual Regression testing
 - Styling and Design Systems
 	- CSS Methodologies
 	- CSS-in-JS
+- Linting & code formatting
+- Browser support
 - Accessibility
 - Localization 
 - Client-Side Routing
@@ -69,3 +72,6 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 		- Conventional Commits
 		- Code Review Process
 		- Library Release Process
+- Templates and tooling 
+	- Bootstrapping new projects
+	- Updating legacy code (Codemods)
