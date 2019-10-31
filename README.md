@@ -57,6 +57,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Compliance Considerations
 		- SOX
 		- GDPR
+		- WCAG 2.0
 		- PCI
 		- HIPAA
 		- etc.
