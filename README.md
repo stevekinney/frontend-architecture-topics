@@ -25,12 +25,19 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Continuous Integration / Continuous Deployment
 	- Docker / Kubernetes
 	- Hosting and Content Delivery Networks
+- Application Monitoring
+	- End user monitoring   	
+	- Synthetic monitoring   	
 - Testing
 	- Balancing Unit and Integration Tests
 	- Local Setup: Communicating with backend systems/mocking requests
+	- Visual Regression testing
 - Styling and Design Systems
 	- CSS Methodologies
 	- CSS-in-JS
+- Linting & code formatting
+- Browser support
+- Search Engine Optimization (SEO)
 - Accessibility
 - Localization 
 - Client-Side Routing
@@ -60,6 +67,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Compliance Considerations
 		- SOX
 		- GDPR
+		- WCAG 2.0
 		- PCI
 		- HIPAA
 		- etc.
@@ -72,3 +80,6 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 		- Conventional Commits
 		- Code Review Process
 		- Library Release Process
+- Templates and tooling 
+	- Bootstrapping new projects
+	- Updating legacy code (Codemods)
