@@ -24,6 +24,9 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Continuous Integration / Continuous Deployment
 	- Docker / Kubernetes
 	- Hosting and Content Delivery Networks
+- Application Monitoring
+	- End user monitoring   	
+	- Synthetic monitoring   	
 - Testing
 	- Balancing Unit and Integration Tests
 	- Visual Regression testing
