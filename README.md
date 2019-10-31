@@ -32,6 +32,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- CSS-in-JS
 - Linting & code formatting
 - Browser support
+- Search Engine Optimization (SEO)
 - Accessibility
 - Localization 
 - Client-Side Routing
