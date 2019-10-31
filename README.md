@@ -11,6 +11,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- REST vs. GraphQL
 	- Loading and Error States
 	- Caching Requests
+	- Authorization/Authentication
 - Bundle Management
 	- Code Splitting
 	- Tree-Shaking
@@ -29,6 +30,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Synthetic monitoring   	
 - Testing
 	- Balancing Unit and Integration Tests
+	- Local Setup: Communicating with backend systems/mocking requests
 	- Visual Regression testing
 - Styling and Design Systems
 	- CSS Methodologies
@@ -49,6 +51,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Runtime Performance
 	- Auditing
 - Microfrontends vs. Monoliths
+- Backends for Front End
 - Server-Side Rendering vs. Static Site Generation
 - WebAssembly
 - Type Systems
