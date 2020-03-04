@@ -39,6 +39,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 - Browser support
 - Search Engine Optimization (SEO)
 - Accessibility
+	- aria-label
 - Localization 
 - Client-Side Routing
 - Font Loading and Rendering
@@ -52,6 +53,10 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 	- Auditing
 - Microfrontends vs. Monoliths
 - Backends for Front End
+	- Custom back-end solutions
+	- Out of box solutions
+		- Google Firebase
+		- Firebase Functions
 - Server-Side Rendering vs. Static Site Generation
 - WebAssembly
 - Type Systems
